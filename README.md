@@ -1,4 +1,4 @@
-# Terminalguide
+# Terminal-Guide
 Linux Terminal-Befehlsübersicht nach Kategorien
 
 Manche, aber längst nicht alle Linux-Desktops bieten eine weitgehend komplette grafische Systemnutzung. Dennoch ist das Terminal unter Linux unentbehrlich. Der Terminal-Guide kategorisiert die wichtigsten Tools.
